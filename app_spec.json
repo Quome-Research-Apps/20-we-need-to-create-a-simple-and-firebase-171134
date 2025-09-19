@@ -1,0 +1,1 @@
+{"name": "20-we-need-to-create-a-simple-and-firebase-171134", "spec": {"port": 8000, "containers": [{"image": "", "name": "20-we-need-to-create-a-simple-and-firebase-171134", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
